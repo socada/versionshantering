@@ -44,3 +44,5 @@ void ReadInput()
             break;
     }
 }
+
+//Min andra ändring i koden, även denna som kommentar
